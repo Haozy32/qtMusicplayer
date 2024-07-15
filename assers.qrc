@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assers/file.png</file>
+        <file>assers/last.png</file>
+        <file>assers/next.png</file>
+        <file>assers/pause.png</file>
+        <file>assers/volume.png</file>
+    </qresource>
+</RCC>
